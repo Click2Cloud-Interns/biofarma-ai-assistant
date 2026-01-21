@@ -42,5 +42,5 @@ This system combines **two intelligent AI agents** into one unified platform:
 ---
 
 ## 📂 Folder Structure
-![image]
+![image] (image.png)
 
